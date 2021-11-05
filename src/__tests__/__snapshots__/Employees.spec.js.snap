@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`the employees data is correct 1`] = `
+Array [
+  Object {
+    "email": "sebastian@codingthesmartway.com",
+    "first_name": "Sebastian",
+    "id": 1,
+    "last_name": "Eschweiler",
+  },
+  Object {
+    "email": "steve@codingthesmartway.com",
+    "first_name": "Steve",
+    "id": 2,
+    "last_name": "Palmer",
+  },
+  Object {
+    "email": "ann@codingthesmartway.com",
+    "first_name": "Ann",
+    "id": 3,
+    "last_name": "Smith",
+  },
+]
+`;
